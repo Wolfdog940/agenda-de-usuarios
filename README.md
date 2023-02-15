@@ -2,7 +2,7 @@
 
 <ul>
     <li>React-Redux</li>
-    <li>RGeact-router-dom </li>
+    <li>React-router-dom </li>
     <li>Redux-toolkit </li>
     <li>Axios</li>
 </ul>
